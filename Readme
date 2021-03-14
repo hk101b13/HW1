@@ -1,0 +1,7 @@
+1. read the csv file
+2. convert string to float for each station id 
+3. check if  -99.000 or  -999.000 are in data
+4. if yes, save 'none' to the list
+5. if no, sum them and save to the list
+6. save all lists to lst_result
+7. print lst_result
